@@ -1,16 +1,30 @@
-### Hi there 👋
+```
 
-<!--
-**okb1100/okb1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                   ,-'     `._ 
+                 ,'           `.        ,-. 
+               ,'               \       ),.\ 
+     ,.       /                  \     /(  \; 
+    /'\\     ,o.        ,ooooo.   \  ,'  `-') 
+    )) )`. d8P"Y8.    ,8P"""""Y8.  `'  .--"' 
+   (`-'   `Y'  `Y8    dP       `'     / 
+    `----.(   __ `    ,' ,---.       ( 
+           ),--.`.   (  ;,---.        ) 
+          / \O_,' )   \  \O_,'        | 
+         ;  `-- ,'       `---'        | 
+         |    -'         `.           | 
+        _;    ,            )          : 
+     _.'|     `.:._   ,.::" `..       | 
+  --'   |   .'     """         `      |`. 
+        |  :;      :   :     _.       |`.`.-'--. 
+        |  ' .     :   :__.,'|/       |  \ 
+        `     \--.__.-'|_|_|-/        /   ) 
+         \     \_   `--^"__,'        ,    | 
+   -hrr- ;  `    `--^---'          ,'     | 
+          \  `                    /      / 
+           \   `    _ _          / 
+            \           `       / 
+             \           '    ,' 
+              `.       ,   _,' 
+                `-.___.---' 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
